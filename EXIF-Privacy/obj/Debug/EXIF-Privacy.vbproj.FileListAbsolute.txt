@@ -1,0 +1,17 @@
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.exe.config
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.exe
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.pdb
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.xml
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.vbprojAssemblyReference.cache
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF_Privacy.Form1.resources
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF_Privacy.Resources.resources
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.vbproj.GenerateResource.cache
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.vbproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.exe
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.xml
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.pdb
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.exe.manifest
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\bin\Debug\EXIF-Privacy.application
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.TrustInfo.xml
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.exe.manifest
+C:\Users\mauri\source\repos\EXIF-Privacy\EXIF-Privacy\obj\Debug\EXIF-Privacy.application
